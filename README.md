@@ -4,7 +4,7 @@ Install npm dependencies based on the OS CPU architecture.
 
 ## Getting Started
 
-Install the module with: `npm install npm-arch-dependencies`.
+Install the module with: `npm install --save npm-arch-dependencies`.
 
 ### Specify your dependencies inside `package.json`
 
