@@ -1,0 +1,26 @@
+
+{
+  "name": "npm-arch-dependencies",
+  "version": "0.0.1",
+  "description": "Dependencies based on arch",
+  "main": "index.js",
+  "bin": {
+    "archpm": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/goliatone/npm-arch-dependencies"
+  },
+  "keywords": [
+    "os",
+    "dependency",
+    "install",
+    "dependencies",
+    "arch",
+    "architecture",
+    "raspberry-pi",
+    "rpi"
+  ],
+  "author": "goliatone",
+  "license": "MIT"
+}
