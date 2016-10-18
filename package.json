@@ -9,8 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/goliatone/npm-arch-dependencies"
+    "url": "git+https://github.com/goliatone/npm-arch-dependencies.git"
   },
+  "bugs": {
+    "url": "https://github.com/goliatone/npm-arch-dependencies/issues"
+  },
+  "homepage": "https://github.com/goliatone/npm-arch-dependencies#readme",
   "keywords": [
     "os",
     "dependency",
